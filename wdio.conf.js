@@ -41,13 +41,7 @@ exports.config = {
     // 5 instances get started at a time.
     //maxInstances: 5,
     //
-
-    // BROWSERSTACK CREDENTIALS below - Uncomment to run tests against our BrowserStack account
-    //
-    // user: 'techsupport27',
-    // key: 'iUJwqWDiqNLjxn7R3nbS',
-    //
-
+    
     capabilities: [{
             browserName: 'chrome'
         },
@@ -221,7 +215,7 @@ exports.config = {
 
                 break;
         }
-    },
+    }
 
     //
     // Runs after a WebdriverIO command gets executed
