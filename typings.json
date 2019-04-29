@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "webdriverio": "registry:npm/webdriverio#4.2.16+20161005232638"
+  }
+}
