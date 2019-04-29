@@ -1,12 +1,5 @@
 # Call Recording Tests
 
-<!-- TOC depthFrom:1 depthTo:2 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [Initial Setup](#initial-setup-and-first-time-run)
-- [Running Tests](#running-tests)
-
-<!-- /TOC -->
-
 ## Initial Setup and First Time Run
 
 
